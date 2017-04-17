@@ -1,0 +1,16 @@
+sample
+
+client/node_modules
+client/bundle.js
+client/npm-debug.log
+client/.DS_Store
+client/.vscode
+
+server/node_modules
+server/bundle.js
+server/npm-debug.log
+server/.DS_Store
+server/.vscode
+# IntelliJ
+*.iml
+/.idea
